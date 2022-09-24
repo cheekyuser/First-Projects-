@@ -1,6 +1,5 @@
 # First-Projects-
-👋 Hi, I’m @cheekyuser
-👀 I’m interested in programming, psychology, photography and many other things.
+👋 Hi, I’m @cheekyuser.
 🌱 I’m currently learning programming with python.
 💞
 📫 How to reach me? you can reach me via
